@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning React JS and Python
 - 👯 I’m looking to collaborate on React JS and Python
 - 🤔 I’m looking for help with expert
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail:-megh.gyawali2000@gmail.com
                        Instagram:-gyawalibsal
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
--->
+
